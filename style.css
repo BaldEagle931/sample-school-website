@@ -1,0 +1,53 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+marquee{
+    background-color: rgb(75, 75, 110);
+    color: aliceblue;
+    padding-top: 5px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10;
+}
+
+header {
+    background-color: #312828;
+    color: #fce1e1;
+    padding: 5px;
+}
+
+nav ul {
+    list-style: none;
+    padding-top: 20px;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fce1e1;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+footer {
+    background-color: #312828;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
